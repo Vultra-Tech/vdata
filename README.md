@@ -14,6 +14,6 @@ python vdata-master.py save --file myfile.vdata --notes "This is a note"
 --data '{"key": "value"}' 
 
 Here is an example to read:  
-```python vdata_cli.py read --file myfile.vdata```
+```python3 vdata-master.py read --file myfile.vdata```
 # Notes
 Video and website is coming soon...
