@@ -9,9 +9,9 @@ To use vdata-master you would need the following commands:
 Here is an example to write to a vdata file:  
 
   
-python vdata_cli.py save --file myfile.vdata --notes "This is a note" \
-    --date "2025-01-10 10:00:00" --code 'print("Hello World")' \
-    --data '{"key": "value"}'  
+python vdata-master.py save --file myfile.vdata --notes "This is a note"
+--date "2025-01-10 10:00:00" --code 'print("Hello World")'
+--data '{"key": "value"}' 
 
 Here is an example to read:  
 ```python vdata_cli.py read --file myfile.vdata```
