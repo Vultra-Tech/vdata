@@ -1,5 +1,6 @@
 # This is a vdata file, please use the vdata program to edit or run
 Notes: This is a note
 Date: 2025-01-10 10:00:00
-Code (Optional): print("Hello World")
-Data (Optional): {"key": "value"}
+Code: print("Hello World")
+Data: {"key": "value"}
+Text: Nice Text
