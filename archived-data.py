@@ -1,3 +1,9 @@
+# This code is in archive, meaning it no longer gets supported, though it may be back in cycle soon. Currently it lacks behind, and is in version 1.0.
+# If you need something like this, please sign up for our beta tester program for an application, or contribute to this project by adding on to this.
+
+
+
+print("This code is deprecated. It is not good practice to use it as it lacks features and may be incompatible with later versions.")
 def save_vdata_file(notes, date, code=None, data=None, file_path="example.vdata"):
     """
     Save data to a custom 'vdata' file.
