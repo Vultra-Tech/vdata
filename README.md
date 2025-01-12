@@ -1,5 +1,5 @@
 # vdata
-Vdata is a file type used to store data easily
+Easily store and ditribute data in a secure way.
 # Files
 Myfile.vdata is an example of how Vdata works.  
 vdata.py is the file you would need to easily intergrate vdata into your program or other thing.  
