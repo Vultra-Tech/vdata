@@ -1,5 +1,7 @@
 # vdata
 Easily store and ditribute data in a secure way.
+> ‼️ **Update**
+> We now support text, and we are in our alpha version of the application... Beta testers, stay tuned!
 # Files
 Myfile.vdata is an example of how Vdata works.  
 vdata.py is the file you would need to easily intergrate vdata into your program or other thing.  
